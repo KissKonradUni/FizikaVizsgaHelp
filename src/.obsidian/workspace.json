@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "afc4b99b40b3d7b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c9e0de3c22ffab6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bf99c9a2795fad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tételek/12..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23acaf3ea72890fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db4803ece6cb233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26a66056803b1d7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7ff4d3d7a2a1f39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f932d07fe9f32309",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7169a3e48838d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "afa92912941920b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "666ea541fa0125e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tételek/12..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2d1723e90379381",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tételek/12..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba7a895c58222498",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c62f97be7964f7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tételek/12..md"
+              }
+            }
+          },
+          {
+            "id": "61802856870a52bd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "1bf99c9a2795fad7",
+  "lastOpenFiles": [
+    "Fizika beugrók.md",
+    "Fizika Tételek.md",
+    "Tételek/01..md",
+    "Tételek/02..md",
+    "Tételek/03..md",
+    "Tételek/04..md",
+    "Tételek/05..md",
+    "Tételek/06..md",
+    "Tételek/07..md",
+    "Tételek/08..md",
+    "Tételek/09..md",
+    "Tételek/10..md",
+    "Tételek/11..md",
+    "Tételek/12..md",
+    "html/FizikaVizsgaHelp/lib/styles/theme.css",
+    "html/FizikaVizsgaHelp/lib/styles/snippets.css",
+    "html/FizikaVizsgaHelp/lib/styles/plugin-styles.css",
+    "html/FizikaVizsgaHelp/lib/styles/obsidian-styles.css",
+    "html/FizikaVizsgaHelp/lib/scripts/tinycolor.js",
+    "html/FizikaVizsgaHelp/lib/scripts/webpage.js",
+    "html/FizikaVizsgaHelp/lib/scripts/graph_wasm.wasm",
+    "html/FizikaVizsgaHelp/lib/scripts/graph_wasm.js",
+    "html/FizikaVizsgaHelp/lib/scripts/graph_view.js",
+    "html/FizikaVizsgaHelp/lib/scripts/graph-render-worker.js",
+    "html/README.md",
+    "Untitled.md",
+    "Egyéb/Alapegységek.md"
+  ]
+}
