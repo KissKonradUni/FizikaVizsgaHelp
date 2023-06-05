@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tételek/12..md",
+                "file": "Fizika Tételek.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tételek/12..md",
+                "file": "Fizika Tételek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tételek/12..md",
+                "file": "Fizika Tételek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tételek/12..md"
+                "file": "Fizika Tételek.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,6 +161,8 @@
   "lastOpenFiles": [
     "Fizika beugrók.md",
     "Fizika Tételek.md",
+    "Tételek/13..md",
+    "Tételek/12..md",
     "Tételek/01..md",
     "Tételek/02..md",
     "Tételek/03..md",
@@ -171,7 +174,6 @@
     "Tételek/09..md",
     "Tételek/10..md",
     "Tételek/11..md",
-    "Tételek/12..md",
     "html/FizikaVizsgaHelp/lib/styles/theme.css",
     "html/FizikaVizsgaHelp/lib/styles/snippets.css",
     "html/FizikaVizsgaHelp/lib/styles/plugin-styles.css",

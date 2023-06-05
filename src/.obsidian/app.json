@@ -8,5 +8,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "autoPairBrackets": true,
+  "autoPairMarkdown": false
 }

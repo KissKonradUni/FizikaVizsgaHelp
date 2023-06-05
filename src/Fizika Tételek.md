@@ -14,7 +14,7 @@
 [[09.#Csillapított rezgés: erőtörvények, mozgásegyenlet, mozgástörvény, gyenge, kritikus, és erős csillapítás. Kényszerrezgés: mozgásegyenlet, mozgástörvény, rezonancia.]]
 [[10.#Hullámok: síkhullám megoldás, hullámhossz, frekvencia, fázissebesség, hanghullámok, transzverzális és longitudinális hullámok.]]
 [[11.#Egyenletes körmozgás dinamikája: centripetális erő, centripetális gyorsulás, szögsebesség. Változó körmozgás dinamikája: forgatónyomaték, perdület (impulzusmomentum), perdülettétel, tehetetlenségi nyomaték, forgó mozgás alapegyenlete, forgó mozgás kinetikus energiája, munka, teljesítmény.]]
-[[12.#Kiterjedt testek, pontrendszerek mozgása, súlypont, tömegközéppont, sűrűség. Lendülettétel pontrendszerekre, tömegközépponti tétel, perdülettétel, munkatétel.]]
+[[12.#Kiterjedt testek, pontrendszerek mozgása, súlypont, tömegközéppont, sűrűség. Lendülettétel pontrendszerekre, tömeg-középponti tétel, perdülettétel, munkatétel.]]
 [[13.#Rugalmas és rugalmatlan ütközések, ütközési szám.]]
 [[14.#Merev test tehetetlenségi nyomatéka, Steiner-tétel, merev test egyensúlya és változó mozgása.]]
 [[15.#Hidrosztatika. Folyadékok és gázok tulajdonságai, nyomás definíciója, hidrosztatikai nyomás, Pascal törvénye, felhajtó erő, Archimédesz törvénye.]]
